@@ -634,6 +634,11 @@ hexo-generator-category@^2.0.0:
   dependencies:
     hexo-pagination "3.0.0"
 
+hexo-generator-cname@^0.3.0:
+  version "0.3.0"
+  resolved "https://registry.npmmirror.com/hexo-generator-cname/-/hexo-generator-cname-0.3.0.tgz#9dead58ae568ccfb4ea9aee28715e093658d2d09"
+  integrity sha512-ZKyxqORsm4vlIilpTaL30xKyOiTS/ZdCs5PGso0UWh+E/4hvpoYNFv4sCp4EeUuBhgGiV4xuyg9M9CHfm8XV7Q==
+
 hexo-generator-index@^3.0.0:
   version "3.0.0"
   resolved "https://registry.yarnpkg.com/hexo-generator-index/-/hexo-generator-index-3.0.0.tgz#4c9233731e027a6af6491886a4aafe08ffdaffe0"
